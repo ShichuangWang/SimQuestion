@@ -1,0 +1,3 @@
+/home/wsc/CLionProjects/SimQuestion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wsc/CLionProjects/SimQuestion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wsc/CLionProjects/SimQuestion/cmake-build-debug/CMakeFiles/SimQuestion.dir

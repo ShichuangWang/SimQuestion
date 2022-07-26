@@ -1,0 +1,4 @@
+/home/wsc/file/clion-2021.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/wsc/file/clion-2021.3.3/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/bin/gcc -DCMAKE_CXX_COMPILER=/bin/g++ -G Ninja /home/wsc/CLionProjects/SimQuestion
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wsc/CLionProjects/SimQuestion/cmake-build-debug
